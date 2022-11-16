@@ -93,6 +93,7 @@ Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the
 Assign permissions to ost-config.php Disable inheritance->Removeall
 New Permissions->Everyone->all
 </p>
+<img src="https://i.imgur.com/1nYaYGe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <p>
 </p>
